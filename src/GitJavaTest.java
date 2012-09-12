@@ -12,6 +12,6 @@ public class GitJavaTest {
     }
     public void printMessage()
     {
-        System.out.println (" Commit on Branch:.");
+        System.out.println (" Committing from IntelliJ");
     }
 }
