@@ -12,6 +12,6 @@ public class GitJavaTest {
     }
     public void printMessage()
     {
-        System.out.println (" b-5:Changed on the branch1.");
+        System.out.println (" Commit on Branch:.");
     }
 }
