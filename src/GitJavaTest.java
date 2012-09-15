@@ -12,6 +12,6 @@ public class GitJavaTest {
     }
     public void printMessage()
     {
-        System.out.println (" Resetting commit.");
+        System.out.println (" Resetting commit1.");
     }
 }
