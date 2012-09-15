@@ -1,1 +1,1 @@
-git merged.
+made the changes on the developer pushing to master.
